@@ -1,0 +1,10 @@
+D:\test5\serial monitor\serialm onitor\serialm onitor\bin\Debug\serialm onitor.exe.config
+D:\test5\serial monitor\serialm onitor\serialm onitor\bin\Debug\serialm onitor.exe
+D:\test5\serial monitor\serialm onitor\serialm onitor\bin\Debug\serialm onitor.pdb
+D:\test5\serial monitor\serialm onitor\serialm onitor\obj\Debug\serialm onitor.csprojAssemblyReference.cache
+D:\test5\serial monitor\serialm onitor\serialm onitor\obj\Debug\serialm_onitor.Form1.resources
+D:\test5\serial monitor\serialm onitor\serialm onitor\obj\Debug\serialm_onitor.Properties.Resources.resources
+D:\test5\serial monitor\serialm onitor\serialm onitor\obj\Debug\serialm onitor.csproj.GenerateResource.cache
+D:\test5\serial monitor\serialm onitor\serialm onitor\obj\Debug\serialm onitor.csproj.CoreCompileInputs.cache
+D:\test5\serial monitor\serialm onitor\serialm onitor\obj\Debug\serialm onitor.exe
+D:\test5\serial monitor\serialm onitor\serialm onitor\obj\Debug\serialm onitor.pdb
