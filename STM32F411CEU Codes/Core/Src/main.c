@@ -132,13 +132,13 @@ int main(void)
   * @brief System Clock Configuration
   * @retval None
   */
-// 🟢 Set PWM duty cycle (0–1000)
+// Set PWM duty cycle (0–1000)
 void set_pwm_duty(uint16_t duty)
 {
   __HAL_TIM_SET_COMPARE(&htim2, TIM_CHANNEL_2, duty);
 }
 
-// 🟢 Send duty cycle over UART
+//  Send duty cycle over UART
 void send_duty_cycle(uint16_t duty)
 {
   char msg[32];
